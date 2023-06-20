@@ -1,0 +1,5 @@
+make
+
+./main1 14
+
+Run ./main2 on another terminal
