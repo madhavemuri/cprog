@@ -11,7 +11,7 @@ int main(int argc, char* argv[]) {
     }
     a = atoi(argv[1]);
     print_a();
-    sleep(1000);
+    sleep(5);
 
     return 0;
 }
